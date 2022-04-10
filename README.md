@@ -1,8 +1,8 @@
 ![alt text](./images/top.svg)
 
-I'm a Product, Project and Process Manager.
+I'm a **Product**, **Project** and **Process** Manager.
 
-I work as Product Manager at [Orbe Soft](https://orbesoft.com.br/), analyzing and managing end-to-end products/projects, with the main objective of understanding the pain and need of the customer, proposing the best solution for it, ensuring a quality delivery, maintaining the communication from start to finish, always thinking about usability and end-user experience.
+I work as **Product Manager at [Orbe Soft](https://orbesoft.com.br/)**, analyzing and managing end-to-end products/projects, with the main objective of understanding the pain and need of the customer, proposing the best solution for it, ensuring a quality delivery, maintaining the communication from start to finish, always thinking about usability and end-user experience.
 
 In addition, support in the implementation of standard documentation, tools, flows and processes for the continuous improvement of the work environment.
 
