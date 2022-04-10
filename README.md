@@ -1,21 +1,22 @@
 ![alt text](./images/top.svg)
 
-I love coding in Python :snake:. I work at [Estylo](https://estylo.in/) as a Python Developer and occassionally participate in hackathons.
+I'm a Product, Project and Process Manager. 
 
-<!--
-**sisodiya2421/sisodiya2421** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I work as Product Manager at [Orbe Soft](https://orbesoft.com.br/), analyzing and managing end-to-end products/projects, with the main objective of understanding the pain and need of the customer, proposing the best solution for it, ensuring a quality delivery, maintaining the communication from start to finish, always thinking about usability and end-user experience.
 
-Here are some ideas to get you started:
+In addition, support in the implementation of standard documentation, tools, flows and processes for the continuous improvement of the work environment.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I also do some work such as QA (Quality Assurance) and UX (User Experience), both in the projects I manage and as an individual consultancy for these two services.
+
+My focus is on the Products area, therefore, my studies in the field are constant, always focusing on continuous improvement, so that I can become a specialist in the area as a Product Manager.I work as Product Manager at Orbe Soft, analyzing and managing end-to-end products/projects, with the main objective of understanding the pain and need of the customer, proposing the best solution for it, ensuring a quality delivery, maintaining the communication from start to finish, always thinking about usability and end-user experience. 
+
+In addition, support in the implementation of standard documentation, tools, flows and processes for the continuous improvement of the work environment. 
+
+I also do some work such as QA (Quality Assurance) and UX (User Experience), both in the projects I manage and as an individual consultancy for these two services. 
+
+My focus is on the Products area, therefore, my studies in the field are constant, always focusing on continuous improvement, so that I can become a specialist in the area as a Product Manager.
+
+
 ⚡ Fun fact:
 - 👯 I’m looking to collaborate on projects that are using Python.
 - 🌱 I’m currently learning JavaScript and mathematics required for ML and Data Science.
@@ -25,11 +26,11 @@ Here are some ideas to get you started:
 
 ### Let's Connect :coffee:
 <p align="center">
-	<a href="https://github.com/sisodiya2421"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/abhishek-sisodiya/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-	<a href="https://www.facebook.com/asisodiya2421/"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
-	<a href="https://www.instagram.com/abhisheksisodiya__/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
-	<a href="https://twitter.com/sisodiya2421"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/></a>
+	<a href="https://github.com/nicolycypriano"><img src="" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/nicolycypriano/"><img src="https://img.icons8.com/fluency/344/linkedin.png" alt="LinkedIn"/></a>
+	<a href="https://www.facebook.com/nicolycypriano/"><img src="https://img.icons8.com/color/344/facebook-new.png" alt="Facebook"/></a>
+	<a href="https://www.instagram.com/nicolycypriano/"><img src="https://img.icons8.com/fluency/344/instagram-new.png" alt="Instagram"/></a>
+	<a href="https://twitter.com/nicolycypriano"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/></a>
 </p>
 
 ![alt text](./images/bottom.svg)
