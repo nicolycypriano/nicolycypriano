@@ -1,4 +1,4 @@
-![alt text](./images/top.svg)
+![alt text](./images/top.png)
 
 I'm a **Product**, **Project** and **Process** Manager.
 
