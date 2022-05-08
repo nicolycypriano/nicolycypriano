@@ -14,7 +14,6 @@ My focus is on the Products area, therefore, my studies in the field are constan
 
 <p align="center">
 	<a href="https://nicolycypriano.com"><img src="./images/website.png" alt="Blog"/></a>
-	<a href="https://github.com/nicolycypriano"><img src="./images/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/nicolycypriano/"><img src="./images/linkedin.png" alt="LinkedIn"/></a>
 	<a href="https://twitter.com/nicolycypriano"><img src="./images/twitter.png" alt="Twitter"/></a>
 </p>
