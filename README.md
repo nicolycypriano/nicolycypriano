@@ -1,6 +1,6 @@
 ![alt text](./images/top.png)
 
-I'm a **Product**, **Project** and **Process** Manager.
+I'm a **Product Manager**.
 
 I work as **Product Manager at [Woovi](https://woo.vi/)**, analyzing and managing end-to-end products/projects, with the main objective of understanding the pain and need of the customer, proposing the best solution for it, ensuring a quality delivery, maintaining the communication from start to finish, always thinking about usability and end-user experience.
 
