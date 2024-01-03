@@ -1,14 +1,14 @@
 ![alt text](./images/top.png)
 
-I'm a **Product Manager**.
+I work in the management and analysis of products, understanding customer needs and seeking efficient solutions to enhance the user journey and experience.
 
-I work as **Product Manager at [Woovi](https://woo.vi/)**, analyzing and managing end-to-end products/projects, with the main objective of understanding the pain and need of the customer, proposing the best solution for it, ensuring a quality delivery, maintaining the communication from start to finish, always thinking about usability and end-user experience.
+Currently, I hold the position of Business Analyst at [DOT Digital Group]([url](https://dotgroup.com.br/)), a company focused on Learning Management System (LMS) solutions for the agribusiness sector. In this role, I lead the creation of learning and training platforms, both corporate and institutional.
 
-In addition, support in the implementation of standard documentation, tools, flows and processes for the continuous improvement of the work environment.
+My background includes technical experience, having started my career as a developer and worked closely with engineering and development teams. I have knowledge in programming languages such as SQL, Java, Javascript, NodeJS, and React, and have contributed to the implementation of documentation, tools, and processes for continuous product improvement.
 
-I also do some work such as QA (Quality Assurance) and UX (User Experience), both in the projects I manage and as an individual consultancy for these two services.
+Over 5 years, I have been involved in 56 IT projects, spanning various areas such as B2C and B2B digital platforms, mobile (iOS and Android), SaaS, e-commerce, the financial market, and customized software for companies of different sizes.
 
-My focus is on the Products area, therefore, my studies in the field are constant, always focusing on continuous improvement, so that I can become a specialist in the area as a Product Manager.
+My skills include team management, product development, project management, customer support (CS), customer experience (CX), user experience (UX), quality assurance (QA), and the application of agile frameworks such as Scrum and Kanban. As a crucial part of my role, I maintain constant communication, manage the roadmap, and remove impediments to ensure quality delivery.
 
 ### Let's Connect :coffee:
 
